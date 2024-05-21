@@ -15,7 +15,7 @@ Para ejecutar este proyecto en tu máquina local, necesitas tener instalado Node
 Clona este repositorio en tu máquina local usando:
 
 ```bash
-git clone https://github.com/gabirobert32/Express-Server-Challenge-ML.git
+git clone https://github.com/gabirobert32/Challenge-Server-Express.git
 
 
 ```
